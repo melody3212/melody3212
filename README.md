@@ -92,7 +92,7 @@ Raspberry Pi 위에서 **실시간 감지 → 마스킹 재생 → LED 피드백
 ---
 
 ## Reading guide
-관심 영역에 따라 [PuriSound](https://github.com/melody3212/PuriSound), [KForest_AI](https://github.com/melody3212/KForest_AI)(분석), [REHAB](https://github.com/melody3212/REHAB)(프론트), [NowRescue](https://github.com/melody3212/NowRescue)(임베디드)를 이어서 보시면 됩니다.
+관심 영역에 따라 [PuriSound](https://github.com/melody3212/PuriSound)(임베디드, 라즈베리파이), [KForest_AI](https://github.com/melody3212/KForest_AI)(분석), [REHAB](https://github.com/melody3212/REHAB)(프론트), [NowRescue](https://github.com/melody3212/NowRescue)(임베디드, ESP32)를 이어서 보시면 됩니다.
 
 ---
 
