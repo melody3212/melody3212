@@ -19,7 +19,7 @@
 
 ## Projects
 
-### [PuriSound](https://github.com/melody3212/PuriSound) · 대표 프로젝트
+### [PuriSound](https://github.com/melody3212/PuriSound) 
 **LG DX School** · 생활 밀착형 스마트 소음 케어  
 🏆 LG전자 DX School 최우수상
 
