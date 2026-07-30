@@ -1,9 +1,9 @@
 # 안녕하세요, 최혜원입니다. 
 
 데이터 분석부터 엣지 디바이스, 웹 프론트엔드까지  
-**문제를 정의하고 동작하는 결과물로 연결하는 일**에 관심이 있습니다. 
+**문제를 정의하고 동작하는 결과물로 연결하는 일**에 흥미를 가지고, 프로젝트를 진행했습니다. 
 
-팀 프로젝트에서는 역할을 분명히 나누고, 맡은 영역은 설계부터 구현·연동까지 책임집니다.
+
 아래는 제출용으로 정리한 대표 프로젝트 요약입니다. 상세 코드와 문서는 각 저장소에서 확인할 수 있습니다.
 
 ---
@@ -92,10 +92,7 @@ Raspberry Pi 위에서 **실시간 감지 → 마스킹 재생 → LED 피드백
 ---
 
 ## Reading guide
-
-1. 이 프로필에서 역할과 성과를 먼저 확인합니다.  
-2. 대표작 **[PuriSound](https://github.com/melody3212/PuriSound)** 의 README와 코드 구조를 살펴봅니다.  
-3. 관심 영역에 따라 [KForest_AI](https://github.com/melody3212/KForest_AI)(분석), [REHAB](https://github.com/melody3212/REHAB)(프론트), [NowRescue](https://github.com/melody3212/NowRescue)(임베디드)를 이어서 보시면 됩니다.
+관심 영역에 따라 [PuriSound](https://github.com/melody3212/PuriSound), [KForest_AI](https://github.com/melody3212/KForest_AI)(분석), [REHAB](https://github.com/melody3212/REHAB)(프론트), [NowRescue](https://github.com/melody3212/NowRescue)(임베디드)를 이어서 보시면 됩니다.
 
 ---
 
